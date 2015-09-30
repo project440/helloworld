@@ -4,6 +4,6 @@ public class a {
 
 	
 	public void main(){
-	System.out.print("");
+	System.out.print("gjhgjjgh");
 	}
 }
