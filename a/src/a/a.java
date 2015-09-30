@@ -3,6 +3,7 @@ package a;
 public class a {
 
 	
-	
-	//System.out.print("");
+	public void main(){
+	System.out.print("");
+	}
 }
